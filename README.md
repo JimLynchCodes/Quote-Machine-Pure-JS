@@ -2,7 +2,8 @@
 
 Try out the live demo here: https://jimtheman.github.io/Quote-Machine-Pure-JS/
 
-https://github.com/JimTheMan/Quote-Machine-Pure-JS/blob/master/quote-machine-screenshot.png
+![Screenshot](/quote-machine-screenshot.png)
+
 
 
 This is a simple quote generator web app that displays funny jokes and allows them to be posted to Twitter.
