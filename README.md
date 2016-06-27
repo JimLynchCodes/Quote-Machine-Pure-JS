@@ -1,5 +1,10 @@
 # Quote Machine Pure JS
 
+Try out the live demo here: https://jimtheman.github.io/Quote-Machine-Pure-JS/
+
+https://github.com/JimTheMan/Quote-Machine-Pure-JS/blob/master/quote-machine-screenshot.png
+
+
 This is a simple quote generator web app that displays funny jokes and allows them to be posted to Twitter.
 
 It's techincally not "pure" JavaScript as I did bring in JQuery, Bootstrap, and Font Awesome, but at least I didn't use a SPA framework. ;)
